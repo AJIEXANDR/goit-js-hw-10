@@ -77,3 +77,7 @@ function clearMarkUp() {
   refs.listEl.innerHTML = '';
   refs.divEl.innerHTML = '';
 }
+
+Notiflix.Notify.init({
+  position: 'center-top',
+});
