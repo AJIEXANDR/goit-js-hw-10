@@ -14,7 +14,10 @@ refs.inputEl.addEventListener('input', debounce(countrySearch, DEBOUNCE_DELAY));
 
 function countrySearch(event) {
   const countryName = event.target.value.trim();
-
+  if (event.target.value === '') {
+    clearMarkUp();
+    return;
+  }
   fetchCountries(countryName)
     .then(countries => {
       if (countries.length > 10) {
@@ -51,8 +54,6 @@ function renderCountriesList(countries) {
 
 function markupCountry(country) {
   clearMarkUp();
-  // const oneCountrfy = { capital, population, name, languages, flags };
-  // console.log(languages);
   const oneCountryMarkup = country.map(country => {
     return `
         <div class="country-data">
