@@ -53,7 +53,7 @@
 109D:\goit\goit-js-hw-10\node_modules\@parcel\package-manager\test\fixtures\has-a-not-yet-installed\package.json133263035749009104 0
 29D:\goit\goit-js-hw-10\.sassrc133106424800000000 0
 84D:\goit\goit-js-hw-10\node_modules\lmdb\dependencies\lmdb\libraries\liblmdb\Makefile133263035748174970 0
-26D:\goit\goit-js-hw-10\dist133269904689317119 1
+26D:\goit\goit-js-hw-10\dist133269912694244895 1
 89D:\goit\goit-js-hw-10\node_modules\@parcel\workers\test\integration\workerfarm\logging.js133263035748350326 0
 43D:\goit\goit-js-hw-10\node_modules\msgpackr133263035748370321 1
 79D:\goit\goit-js-hw-10\node_modules\caniuse-lite\data\features\array-includes.js133263039855169893 0
@@ -122,7 +122,7 @@
 25D:\goit\goit-js-hw-10\src133264567711966870 1
 84D:\goit\goit-js-hw-10\node_modules\@parcel\package-manager\src\promiseFromProcess.js133263035748674252 0
 79D:\goit\goit-js-hw-10\node_modules\caniuse-lite\data\features\viewport-units.js133263039950648433 0
-36D:\goit\goit-js-hw-10\src\index.html133269898077463608 0
+36D:\goit\goit-js-hw-10\src\index.html133269912691038511 0
 34D:\goit\goit-js-hw-10\src\js-parts133264568599305691 1
 45D:\goit\goit-js-hw-10\node_modules\base-x\src133263035747331243 1
 60D:\goit\goit-js-hw-10\node_modules\caniuse-lite\data\regions133263039950964170 1
@@ -144,7 +144,7 @@
 55D:\goit\goit-js-hw-10\node_modules\micromatch\README.md133263035747250341 0
 60D:\goit\goit-js-hw-10\node_modules\cosmiconfig\dist\index.js133263035747620843 0
 65D:\goit\goit-js-hw-10\node_modules\@nodelib\fs.stat\out\providers133263035748006785 1
-40D:\goit\goit-js-hw-10\src\css\styles.css133267363096040482 0
+40D:\goit\goit-js-hw-10\src\css\styles.css133269912382327200 0
 71D:\goit\goit-js-hw-10\node_modules\svgo\plugins\removeElementsByAttr.js133263035749178524 0
 93D:\goit\goit-js-hw-10\node_modules\@parcel\runtime-service-worker\lib\ServiceWorkerRuntime.js133263035746916873 0
 40D:\goit\goit-js-hw-10\node_modules\clone133263035747464591 1
@@ -926,7 +926,7 @@
 64D:\goit\goit-js-hw-10\node_modules\terser\lib\compress\inline.js133263035749009104 0
 48D:\goit\goit-js-hw-10\node_modules\fastq\LICENSE133263035746633361 0
 54D:\goit\goit-js-hw-10\node_modules\has-flag\index.d.ts133263035746856876 0
-48D:\goit\goit-js-hw-10\dist\index.975ef6c8.js.map133269904689317119 0
+48D:\goit\goit-js-hw-10\dist\index.975ef6c8.js.map133269912694235102 0
 64D:\goit\goit-js-hw-10\node_modules\lmdb-win32-x64\node.napi.node133263035748674252 0
 53D:\goit\goit-js-hw-10\node_modules\utility-types\dist133263035748299880 1
 50D:\goit\goit-js-hw-10\node_modules\source-map\dist133263035748430329 1
@@ -3750,7 +3750,7 @@
 81D:\goit\goit-js-hw-10\node_modules\caniuse-lite\data\features\webkit-user-drag.js133263039950964170 0
 75D:\goit\goit-js-hw-10\node_modules\caniuse-lite\data\features\websockets.js133263039950964170 0
 81D:\goit\goit-js-hw-10\node_modules\@parcel\node-resolver-core\src\NodeResolver.js133263035749480313 0
-37D:\goit\goit-js-hw-10\dist\index.html133269898078370850 0
+37D:\goit\goit-js-hw-10\dist\index.html133269912694064190 0
 73D:\goit\goit-js-hw-10\node_modules\@parcel\packager-js\src\DevPackager.js133263035747620843 0
 71D:\goit\goit-js-hw-10\node_modules\caniuse-lite\data\features\webvtt.js133263039950964170 0
 76D:\goit\goit-js-hw-10\node_modules\caniuse-lite\data\features\will-change.js133263039950964170 0
@@ -4721,9 +4721,9 @@
 46D:\goit\goit-js-hw-10\node_modules\.bin\terser133263035753396890 0
 50D:\goit\goit-js-hw-10\node_modules\.bin\terser.cmd133263035753386883 0
 50D:\goit\goit-js-hw-10\node_modules\.bin\terser.ps1133263035753396890 0
-45D:\goit\goit-js-hw-10\dist\index.77a9bc14.css133269892744400229 0
-49D:\goit\goit-js-hw-10\dist\index.77a9bc14.css.map133269892744400229 0
-44D:\goit\goit-js-hw-10\dist\index.975ef6c8.js133269904689307122 0
+45D:\goit\goit-js-hw-10\dist\index.77a9bc14.css133269912694053258 0
+49D:\goit\goit-js-hw-10\dist\index.77a9bc14.css.map133269912694064190 0
+44D:\goit\goit-js-hw-10\dist\index.975ef6c8.js133269912694224811 0
 54D:\goit\goit-js-hw-10\assets\actions-config-step-1.png133106424800000000 0
 54D:\goit\goit-js-hw-10\assets\actions-config-step-2.png133106424800000000 0
 50D:\goit\goit-js-hw-10\.github\workflows\deploy.yml133106424800000000 0
