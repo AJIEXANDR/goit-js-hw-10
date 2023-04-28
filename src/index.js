@@ -32,8 +32,10 @@ function countrySearch(event) {
       }
     })
     .catch(error => {
-      clearMarkUp();
-      Notiflix.Notify.failure('Oops, there is no country with that name');
+      if (error.message === '404') {
+        clearMarkUp();
+        Notiflix.Notify.failure('Oops, there is no country with that name');
+      }
     });
 }
 

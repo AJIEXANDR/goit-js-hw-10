@@ -5,7 +5,7 @@
 39D:\goit\goit-js-hw-10\node_modules\@swc133263035738792775 1
 59D:\goit\goit-js-hw-10\node_modules\css-what\lib\es\parse.js133263035747464591 0
 78D:\goit\goit-js-hw-10\node_modules\caniuse-lite\data\features\css-clip-path.js133263039869802254 0
-34D:\goit\goit-js-hw-10\src\index.js133269904688157153 0
+34D:\goit\goit-js-hw-10\src\index.js133271310290591790 0
 69D:\goit\goit-js-hw-10\node_modules\sass\types\legacy\plugin_this.d.ts133263035749636972 0
 64D:\goit\goit-js-hw-10\node_modules\css-tree\lib\syntax\create.js133263035748430329 0
 57D:\goit\goit-js-hw-10\node_modules\svgo\lib\svgo\jsAPI.js133263035748674252 0
@@ -53,7 +53,7 @@
 109D:\goit\goit-js-hw-10\node_modules\@parcel\package-manager\test\fixtures\has-a-not-yet-installed\package.json133263035749009104 0
 29D:\goit\goit-js-hw-10\.sassrc133106424800000000 0
 84D:\goit\goit-js-hw-10\node_modules\lmdb\dependencies\lmdb\libraries\liblmdb\Makefile133263035748174970 0
-26D:\goit\goit-js-hw-10\dist133269913116565494 1
+26D:\goit\goit-js-hw-10\dist133271310372109022 1
 89D:\goit\goit-js-hw-10\node_modules\@parcel\workers\test\integration\workerfarm\logging.js133263035748350326 0
 43D:\goit\goit-js-hw-10\node_modules\msgpackr133263035748370321 1
 79D:\goit\goit-js-hw-10\node_modules\caniuse-lite\data\features\array-includes.js133263039855169893 0
@@ -169,7 +169,6 @@
 43D:\goit\goit-js-hw-10\node_modules\@nodelib133263035739133000 1
 55D:\goit\goit-js-hw-10\node_modules\type-fest\index.d.ts133263035748188503 0
 60D:\goit\goit-js-hw-10\node_modules\is-arrayish\.istanbul.yml133263035747464591 0
-48D:\goit\goit-js-hw-10\dist\index.89a3b873.js.map133269913116374812 0
 74D:\goit\goit-js-hw-10\node_modules\@parcel\node-resolver-core\package.json133263035749636972 0
 44D:\goit\goit-js-hw-10\node_modules\@trysound133263035738792775 1
 80D:\goit\goit-js-hw-10\node_modules\caniuse-lite\data\features\urlsearchparams.js133263039950648433 0
@@ -2045,6 +2044,7 @@
 82D:\goit\goit-js-hw-10\node_modules\@parcel\watcher\src\shared\BruteForceBackend.cc133263035747260347 0
 58D:\goit\goit-js-hw-10\node_modules\@trysound\sax\README.md133263035747341247 0
 61D:\goit\goit-js-hw-10\node_modules\nan\nan_maybe_pre_43_inl.h133263035747990335 0
+48D:\goit\goit-js-hw-10\dist\index.b64afbbc.js.map133271310371959031 0
 53D:\goit\goit-js-hw-10\node_modules\nan\doc\buffers.md133263035748663378 0
 50D:\goit\goit-js-hw-10\node_modules\is-json\LICENSE133263035747040946 0
 44D:\goit\goit-js-hw-10\node_modules\nan\tools133263035749098469 1
@@ -3622,7 +3622,6 @@
 78D:\goit\goit-js-hw-10\node_modules\caniuse-lite\data\features\mediarecorder.js133263039915504781 0
 82D:\goit\goit-js-hw-10\node_modules\@parcel\package-manager\src\NodeResolverSync.js133263035748623382 0
 76D:\goit\goit-js-hw-10\node_modules\caniuse-lite\data\features\mediasource.js133263039915521029 0
-48D:\goit\goit-js-hw-10\dist\index.cc240f0a.js.map133269913116374812 0
 69D:\goit\goit-js-hw-10\node_modules\caniuse-lite\data\features\menu.js133263039915521029 0
 72D:\goit\goit-js-hw-10\node_modules\@nodelib\fs.scandir\out\settings.d.ts133263035748400320 0
 72D:\goit\goit-js-hw-10\node_modules\abortcontroller-polyfill\src\utils.js133263035748006785 0
@@ -3751,7 +3750,7 @@
 81D:\goit\goit-js-hw-10\node_modules\caniuse-lite\data\features\webkit-user-drag.js133263039950964170 0
 75D:\goit\goit-js-hw-10\node_modules\caniuse-lite\data\features\websockets.js133263039950964170 0
 81D:\goit\goit-js-hw-10\node_modules\@parcel\node-resolver-core\src\NodeResolver.js133263035749480313 0
-37D:\goit\goit-js-hw-10\dist\index.html133269913116374812 0
+37D:\goit\goit-js-hw-10\dist\index.html133271310371959031 0
 73D:\goit\goit-js-hw-10\node_modules\@parcel\packager-js\src\DevPackager.js133263035747620843 0
 71D:\goit\goit-js-hw-10\node_modules\caniuse-lite\data\features\webvtt.js133263039950964170 0
 76D:\goit\goit-js-hw-10\node_modules\caniuse-lite\data\features\will-change.js133263039950964170 0
@@ -4320,6 +4319,7 @@
 126D:\goit\goit-js-hw-10\node_modules\@parcel\node-resolver-core\test\fixture\node_modules\package-main-directory\nested\index.js133263035748859040 0
 108D:\goit\goit-js-hw-10\node_modules\@parcel\node-resolver-core\test\fixture\node_modules\package-main\main.js133263035749370320 0
 146D:\goit\goit-js-hw-10\node_modules\@parcel\node-resolver-core\test\fixture\node_modules\.pnpm\source-pnpm@1.0.0\node_modules\source-pnpm\source.js133263035749480313 0
+44D:\goit\goit-js-hw-10\dist\index.b64afbbc.js133271310371959031 0
 84D:\goit\goit-js-hw-10\node_modules\@jridgewell\trace-mapping\dist\types\resolve.d.ts133263035747970355 0
 124D:\goit\goit-js-hw-10\node_modules\@parcel\node-resolver-core\test\fixture\node_modules\package-browser-exclude\package.json133263035749636972 0
 63D:\goit\goit-js-hw-10\node_modules\@jridgewell\gen-mapping\dist133263035747620843 1
@@ -4724,8 +4724,8 @@
 50D:\goit\goit-js-hw-10\node_modules\.bin\terser.ps1133263035753396890 0
 45D:\goit\goit-js-hw-10\dist\index.15dcbb8e.css133269913116374812 0
 49D:\goit\goit-js-hw-10\dist\index.15dcbb8e.css.map133269913116374812 0
-44D:\goit\goit-js-hw-10\dist\index.89a3b873.js133269913116374812 0
-44D:\goit\goit-js-hw-10\dist\index.cc240f0a.js133269913116374812 0
+44D:\goit\goit-js-hw-10\dist\index.57362368.js133271310371959031 0
+48D:\goit\goit-js-hw-10\dist\index.57362368.js.map133271310371959031 0
 54D:\goit\goit-js-hw-10\assets\actions-config-step-1.png133106424800000000 0
 54D:\goit\goit-js-hw-10\assets\actions-config-step-2.png133106424800000000 0
 50D:\goit\goit-js-hw-10\.github\workflows\deploy.yml133106424800000000 0
